@@ -1,6 +1,6 @@
 {
   "name": "export-html-table-to-excel",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Small react component for converting and downloading HTML table to Excel file",
   "main": "index.js",
   "scripts": {
@@ -58,9 +58,9 @@
     "eslint-plugin-jsx-a11y": "^6.6.0",
     "eslint-plugin-react": "^7.30.1",
     "jest": "^20.0.4",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
-    "react-test-renderer": "^17.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-test-renderer": "^16.8.6",
     "sinon": "^2.2.0"
   },
   "dependencies": {
